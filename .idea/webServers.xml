@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f71fbfc-6634-4a47-9024-b296bbebac6a" name="iStore">
+        <fileTransfer rootFolder="/home/andyzhao1125" accessType="SFTP" host="35.236.115.160" port="22" sshConfigId="3e91a0f8-4337-4f3c-ade3-16055b98726c" sshConfig="andyzhao1125@35.236.115.160:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
